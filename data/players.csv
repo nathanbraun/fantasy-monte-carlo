@@ -1,0 +1,284 @@
+player_id,name,pos,team,actual
+1091,Patrick Mahomes,QB,KC,25.680000000000003
+498,Jalen Hurts,QB,PHI,19.880000000000003
+889,Josh Allen,QB,BUF,21.32
+1094,Joshua Dobbs,QB,ARI,17.060000000000002
+329,Zach Wilson,QB,NYJ,6.38
+893,Lamar Jackson,QB,BAL,28.18
+494,Justin Herbert,QB,LAC,29.3
+493,Tua Tagovailoa,QB,MIA,28.36
+327,Trevor Lawrence,QB,JAX,14.36
+2085,Kirk Cousins,QB,MIN,25.68
+2082,Ryan Tannehill,QB,TEN,4.16
+1297,Dak Prescott,QB,DAL,14.360000000000001
+331,Mac Jones,QB,NE,13.340000000000002
+155,Desmond Ridder,QB,ATL,6.340000000000001
+1088,Deshaun Watson,QB,CLE,21.160000000000004
+156,Brock Purdy,QB,SF,20.299999999999997
+497,Jordan Love,QB,GB,24.259999999999998
+1757,Jimmy Garoppolo,QB,LV,17.66
+151,Sam Howell,QB,WAS,0.5999999999999999
+150,Kenny Pickett,QB,PIT,18.5
+2088,Russell Wilson,QB,DEN,14.24
+1288,Jared Goff,QB,DET,18.02
+328,Justin Fields,QB,CHI,10.66
+1883,Geno Smith,QB,SEA,15.44
+1689,Derek Carr,QB,NO,8.120000000000001
+890,Baker Mayfield,QB,TB,10.04
+2621,Matthew Stafford,QB,LAR,11.459999999999999
+677,Daniel Jones,QB,NYG,3.9800000000000004
+492,Joe Burrow,QB,CIN,8.16
+2301,Andy Dalton,QB,CAR,23.54
+685,Gardner Minshew,QB,IND,13.08
+703,Tony Pollard,RB,DAL,15.100000000000001
+1105,Christian McCaffrey,RB,SF,22.9
+168,Kenneth Walker III,RB,SEA,30.6
+691,Josh Jacobs,RB,LV,11.0
+1303,Derrick Henry,RB,TEN,2.0
+361,Khalil Herbert,RB,CHI,3.5
+343,Travis Etienne,RB,JAX,17.8
+349,Rhamondre Stevenson,RB,NE,7.2
+172,James Cook,RB,BUF,13.200000000000001
+1106,Joe Mixon,RB,CIN,14.0
+1651,Raheem Mostert,RB,MIA,45.2
+174,Dameon Pierce,RB,HOU,14.9
+1121,James Conner,RB,ARI,19.6
+178,Rachaad White,RB,TB,7.200000000000001
+199,Jaylen Warren,RB,PIT,8.200000000000001
+567,Antonio Gibson,RB,WAS,3.4000000000000004
+346,Javonte Williams,RB,DEN,8.5
+1302,Ezekiel Elliott,RB,NE,9.7
+698,Devin Singletary,RB,HOU,6.5
+169,Tyler Allgeier,RB,ATL,4.9
+173,Brian Robinson,RB,WAS,7.0
+1758,Jerick McKinnon,RB,KC,17.799999999999997
+167,Kyren Williams,RB,LAR,8.5
+538,Rico Dowdle,RB,DAL,13.6
+351,Chuba Hubbard,RB,CAR,2.4000000000000004
+344,Najee Harris,RB,PIT,6.5
+206,Isiah Pacheco,RB,KC,15.799999999999999
+772,Alexander Mattison,RB,MIN,17.5
+1103,Dalvin Cook,RB,NYJ,5.8999999999999995
+2000,Latavius Murray,RB,BUF,9.1
+1108,Samaje Perine,RB,DEN,4.4
+512,D'Andre Swift,RB,PHI,14.8
+697,Miles Sanders,RB,CAR,17.200000000000003
+513,Zack Moss,RB,IND,22.5
+191,Keaontay Ingram,RB,ARI,3.1
+165,Breece Hall,RB,NYJ,3.7
+694,Trayveon Williams,RB,CIN,0.4
+1008,Gus Edwards,RB,BAL,5.1000000000000005
+1511,Ameer Abdullah,RB,LV,3.6
+348,Michael Carter,RB,NYJ,1.3
+1004,Nick Bawden,RB,NYJ,6.1
+1216,Matt Breida,RB,NYG,10.8
+693,Damien Harris,RB,BUF,1.5
+353,Elijah Mitchell,RB,SF,7.4
+170,Jerome Ford,RB,CLE,19.1
+288,Jordan Mason,RB,SF,1.1
+1996,Kyle Juszczyk,RB,SF,0.30000000000000004
+520,AJ Dillon,RB,GB,3.3000000000000003
+166,Isaiah Spiller,RB,LAC,0.7000000000000001
+180,Ty Chandler,RB,MIN,4.1
+522,Joshua Kelley,RB,LAC,2.7
+530,DeeJay Dallas,RB,SEA,1.5
+518,Clyde Edwards-Helaire,RB,KC,12.7
+1442,C.J. Ham,RB,MIN,1.7000000000000002
+873,Craig Reynolds,RB,DET,1.5
+1507,Melvin Gordon,RB,BAL,7.500000000000001
+804,D'Ernest Johnson,RB,JAX,3.2
+824,Alec Ingold,RB,MIA,0.0
+190,Pierre Strong Jr.,RB,CLE,2.7
+543,Tony Jones,RB,NO,9.2
+345,Kenneth Gainwell,RB,PHI,5.8
+184,Zonovan Knight,RB,DET,1.3
+447,Gary Brightwell,RB,NYG,5.6
+532,Patrick Taylor,RB,GB,5.9
+1307,Kenyan Drake,RB,BAL,3.1
+1113,Kareem Hunt,RB,CLE,5.5
+551,Justin Jefferson,WR,MIN,27.9
+1371,Tyreek Hill,WR,MIA,30.700000000000003
+547,CeeDee Lamb,WR,DAL,10.200000000000001
+1138,Chris Godwin,WR,TB,8.2
+1541,Stefon Diggs,WR,BUF,19.1
+372,DeVonta Smith,WR,PHI,6.800000000000001
+929,Calvin Ridley,WR,JAX,7.0
+211,Chris Olave,WR,NO,18.4
+722,A.J. Brown,WR,PHI,22.1
+727,Terry McLaurin,WR,WAS,10.100000000000001
+720,DK Metcalf,WR,SEA,17.200000000000003
+1129,Mike Williams,WR,LAC,25.1
+1716,Mike Evans,WR,TB,17.0
+377,Amon-Ra St. Brown,WR,DET,19.6
+1720,Davante Adams,WR,LV,42.2
+1542,Tyler Lockett,WR,SEA,8.4
+548,Jerry Jeudy,WR,DEN,13.1
+1954,Keenan Allen,WR,LAC,45.46
+219,George Pickens,WR,PIT,11.5
+560,Gabriel Davis,WR,BUF,10.3
+371,Ja'Marr Chase,WR,CIN,26.1
+212,Jahan Dotson,WR,WAS,4.1
+930,Courtland Sutton,WR,DEN,19.1
+210,Garrett Wilson,WR,NYJ,9.8
+1964,DeAndre Hopkins,WR,TEN,7.800000000000001
+754,Deebo Samuel,WR,SF,25.099999999999998
+380,Nico Collins,WR,HOU,5.4
+1329,Michael Thomas,WR,NO,11.0
+933,Christian Kirk,WR,JAX,15.4
+298,Brandon Johnson,WR,DEN,3.2
+723,Marquise Brown,WR,ARI,17.1
+315,Rashid Shaheed,WR,NO,0.0
+1832,Adam Thielen,WR,CAR,31.5
+935,D.J. Moore,WR,CHI,13.100000000000001
+550,Tee Higgins,WR,CIN,4.1
+391,Tutu Atwell,WR,LAR,17.2
+857,Deonte Harty,WR,BUF,3.3
+208,Drake London,WR,ATL,5.1
+1327,Tyler Boyd,WR,CIN,8.9
+1723,Allen Robinson,WR,PIT,6.4
+557,Michael Pittman,WR,IND,16.7
+556,Chase Claypool,WR,CHI,2.5
+1530,Amari Cooper,WR,CLE,24.6
+224,Alec Pierce,WR,IND,7.3
+378,Elijah Moore,WR,CLE,11.8
+993,Marquez Valdes-Scantling,WR,KC,4.7
+1238,Kendrick Bourne,WR,NE,8.600000000000001
+1132,Curtis Samuel,WR,WAS,7.4
+209,Treylon Burks,WR,TEN,1.5
+1185,Mack Hollins,WR,ATL,3.3000000000000003
+946,Michael Gallup,WR,DAL,15.200000000000001
+1960,Robert Woods,WR,HOU,6.4
+409,Josh Palmer,WR,LAC,14.600000000000001
+383,Rashod Bateman,WR,BAL,1.6
+599,Darnell Mooney,WR,CHI,0.0
+991,Justin Watson,WR,KC,7.1000000000000005
+740,Darius Slayton,WR,NYG,6.2
+1473,Kalif Raymond,WR,DET,9.5
+1536,Nelson Agholor,WR,BAL,7.9
+573,Van Jefferson,WR,LAR,6.000000000000001
+741,Hunter Renfrow,WR,LV,3.7
+600,K.J. Osborn,WR,MIN,10.6
+932,Allen Lazard,WR,NYJ,6.9
+222,Skyy Moore,WR,KC,8.2
+235,Romeo Doubs,WR,GB,18.3
+564,Isaiah Hodgins,WR,NYG,0.0
+233,Calvin Austin III,WR,PIT,15.2
+398,Terrace Marshall,WR,CAR,8.5
+1131,JuJu Smith-Schuster,WR,NE,1.5
+730,Parris Campbell,WR,NYG,8.4
+968,D.J. Chark,WR,CAR,18.6
+1270,River Cracraft,WR,MIA,2.3
+572,Donovan Peoples-Jones,WR,CLE,7.9
+373,Rondale Moore,WR,ARI,16.2
+938,Braxton Berrios,WR,MIA,5.300000000000001
+1531,DeVante Parker,WR,NE,3.9000000000000004
+745,Jakobi Meyers,WR,LV,15.5
+379,Kadarius Toney,WR,KC,0.9
+575,Jauan Jennings,WR,SF,5.1
+1719,Brandin Cooks,WR,DAL,3.7
+1976,Travis Kelce,TE,KC,19.9
+756,T.J. Hockenson,TE,MIN,13.8
+971,Mark Andrews,TE,BAL,7.5
+1164,Evan Engram,TE,JAX,13.7
+1187,George Kittle,TE,SF,16.0
+974,Dallas Goedert,TE,PHI,9.100000000000001
+1574,Darren Waller,TE,NYG,5.0
+812,Donald Parham,TE,LAC,14.4
+1352,Hunter Henry,TE,NE,3.7
+755,Noah Fant,TE,SEA,8.100000000000001
+1167,David Njoku,TE,CLE,6.0
+419,Kyle Pitts,TE,ATL,8.700000000000001
+586,Colby Parkinson,TE,SEA,6.800000000000001
+1354,Tyler Higbee,TE,LAR,12.100000000000001
+1168,Jonnu Smith,TE,ATL,8.7
+972,Mike Gesicki,TE,NE,2.8
+771,Josh Oliver,TE,MIN,8.4
+585,Adam Trautman,TE,DEN,0.0
+576,Juwan Johnson,TE,NO,3.2
+980,Hayden Hurst,TE,CAR,2.1
+442,Kylen Granson,TE,IND,2.9
+421,Pat Freiermuth,TE,PIT,13.100000000000001
+250,Trey McBride,TE,ARI,1.2
+761,Dawson Knox,TE,BUF,2.1
+266,Chigoziem Okonkwo,TE,TEN,3.7
+590,Harrison Bryant,TE,CLE,0.4
+258,Cade Otton,TE,TB,2.6
+1579,C.J. Uzomah,TE,NYJ,1.9
+255,Jake Ferguson,TE,DAL,9.8
+1979,Zach Ertz,TE,ARI,2.6
+976,Durham Smythe,TE,MIA,2.5
+582,Cole Kmet,TE,CHI,4.2
+990,Dalton Schultz,TE,HOU,1.9
+975,Tyler Conklin,TE,NYJ,5.6
+306,Peyton Hendershot,TE,DAL,1.3
+427,Noah Gray,TE,KC,1.9
+1175,Gerald Everett,TE,LAC,9.0
+256,Connor Heyward,TE,PIT,0.0
+254,Isaiah Likely,TE,BAL,3.0
+1241,Taysom Hill,TE,NO,3.1
+1459,Chris Manhertz,TE,DEN,0.0
+797,Andrew Beck,TE,HOU,0.0
+269,Teagan Quitoriano,TE,HOU,0.0
+420,Brevin Jordan,TE,HOU,9.3
+264,Daniel Bellinger,TE,NYG,1.8
+434,John Bates,TE,WAS,3.2
+259,Cole Turner,TE,WAS,7.5
+271,Andrew Ogletree,TE,IND,2.1
+2150,Greg Zuerlein,PK,NYJ,6.2
+1837,Cairo Santos,PK,CHI,3.1
+1200,Harrison Butker,PK,KC,12.9
+1839,Brandon McManus,PK,JAX,7.4
+3130,Matt Prater,PK,ARI,15.4
+864,Joey Slye,PK,WAS,5.1000000000000005
+2210,Justin Tucker,PK,BAL,4.0
+601,Tyler Bass,PK,BUF,16.200000000000003
+1871,Jason Myers,PK,SEA,20.7
+872,Chase McLaughlin,PK,TB,3.3000000000000003
+982,Eddy Pineiro,PK,CAR,9.1
+1460,Wil Lutz,PK,DEN,7.6000000000000005
+1188,Jake Elliott,PK,PHI,12.0
+776,Matt Gay,PK,IND,25.400000000000002
+436,Riley Patterson,PK,DET,8.100000000000001
+1228,Younghoe Koo,PK,ATL,4.2
+1999,Dustin Hopkins,PK,CLE,13.0
+1830,Chris Boswell,PK,PIT,16.200000000000003
+2713,Graham Gano,PK,NYG,10.100000000000001
+1276,Brett Maher,PK,LAR,10.5
+981,Daniel Carlson,PK,LV,3.6
+1003,Jason Sanders,PK,MIA,10.0
+435,Evan McPherson,PK,CIN,18.400000000000002
+1394,Ka'imi Fairbairn,PK,HOU,12.700000000000001
+1035,Greg Joseph,PK,MIN,5.300000000000001
+2939,Nick Folk,PK,TEN,4.4
+5156,CHI,DST,CHI,1.0
+5151,ARI,DST,ARI,8.0
+5159,DAL,DST,DAL,3.0
+5174,NYG,DST,NYG,-1.0
+5172,NE,DST,NE,9.0
+5166,KC,DST,KC,11.0
+5163,HOU,DST,HOU,11.0
+5154,BUF,DST,BUF,32.0
+5162,GB,DST,GB,8.0
+5158,CLE,DST,CLE,12.0
+5181,TEN,DST,TEN,6.0
+5153,BAL,DST,BAL,8.0
+5171,MIN,DST,MIN,4.0
+5178,SEA,DST,SEA,4.0
+5157,CIN,DST,CIN,14.0
+5170,MIA,DST,MIA,14.0
+5176,PHI,DST,PHI,12.0
+5168,LAR,DST,LAR,8.0
+5155,CAR,DST,CAR,1.0
+5164,IND,DST,IND,12.0
+5167,LAC,DST,LAC,9.0
+5175,NYJ,DST,NYJ,4.0
+5173,NO,DST,NO,13.0
+5180,TB,DST,TB,6.0
+5165,JAX,DST,JAX,3.0
+5182,WAS,DST,WAS,-1.0
+5160,DEN,DST,DEN,-3.0
+5161,DET,DST,DET,16.0
+5177,PIT,DST,PIT,14.0
+5179,SF,DST,SF,8.0
+5152,ATL,DST,ATL,3.0
+5169,LV,DST,LV,2.0
