@@ -1,1 +1,2 @@
 pandas==2.2.2
+seaborn==0.13.2
